@@ -94,7 +94,8 @@ vert = yellowgreen */
 .container {
     margin-top: 1rem;
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
 .images {
@@ -116,7 +117,6 @@ vert = yellowgreen */
 .prospection {
     background-color: #004488;
     width: 200px;
-    height: 320px;
     padding: 0em 2rem 0em;
 }
 
